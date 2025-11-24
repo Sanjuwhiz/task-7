@@ -1,60 +1,37 @@
-Task 7: Identify and Remove Suspicious Browser Extensions
-📌 Overview
+# Task 7: Identify and Remove Suspicious Browser Extensions
 
-This task focuses on reviewing and removing suspicious or unnecessary browser extensions to improve browsing security and performance. It helps develop awareness of how malicious extensions can impact user privacy, data safety, and browser behavior.
+## Overview
+This task focuses on reviewing all browser extensions to identify suspicious or unnecessary add-ons. By analyzing permissions, reviews, and developer details, harmful extensions can be removed to improve browser security and performance.
 
-🎯 Objective
+## Objective
+Identify, analyze, and remove potentially harmful browser extensions to enhance security and ensure a safe browsing environment.
 
-Identify potentially harmful or unused browser extensions
+## Tools Used
+- Google Chrome
+- Mozilla Firefox
+- Browser Extension/Add-on Manager
 
-Analyze permissions, reviews, and developer credibility
+## Steps Followed
+1. Opened the browser’s extension/add-ons manager.
+2. Reviewed all installed extensions.
+3. Checked permissions, reviews, and publisher information.
+4. Identified unused, unknown, or suspicious extensions.
+5. Removed unnecessary or harmful extensions.
+6. Restarted the browser and checked for performance improvements.
+7. Researched how malicious extensions can affect users.
+8. Documented findings and removed extensions.
 
-Remove suspicious add-ons to ensure a safer browsing environment
+## Findings
+- Suspicious Extensions Identified:
+  - (Add your list here)
+  
+- Extensions Removed:
+  - (Add removed extensions and reasons)
 
-🛠️ Tools Used
+## Post-Cleanup Observations
+- Browser performance improved or remained stable.
+- No unwanted pop-ups or redirects observed.
+- Safer and cleaner browsing experience achieved.
 
-Google Chrome
-
-Mozilla Firefox
-
-Built-in Extension/Add-on Manager
-
-📖 Steps Followed
-
-Opened the browser’s extension/add-ons manager.
-
-Reviewed the list of installed extensions.
-
-Checked permissions, user reviews, and publisher details.
-
-Identified suspicious, unused, or unknown extensions.
-
-Removed unnecessary or harmful extensions.
-
-Restarted the browser to confirm performance improvements.
-
-Researched how malicious extensions affect users.
-
-Documented extensions removed and observations.
-
-🔍 Findings
-
-Suspicious Extensions Identified:
-
-(Add your list here)
-
-Extensions Removed:
-
-(Add removed extensions with reasons)
-
-📈 Post-Cleanup Observations
-
-Improved browser startup speed
-
-Reduced pop-ups and unwanted redirects
-
-More stable and secure browsing experience
-
-✅ Conclusion
-
-Regularly auditing browser extensions is essential for maintaining privacy, preventing tracking, and ensuring a secure browsing environment. Removing unknown or suspicious extensions significantly reduces security risks.
+## Conclusion
+Regularly reviewing browser extensions helps prevent data theft, tracking, ad injection, and browser hijacking. Removing suspicious extensions significantly improves browsing safety and system performance.
